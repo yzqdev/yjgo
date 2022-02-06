@@ -2,8 +2,8 @@ package token
 
 import (
 	"encoding/base64"
-	"github.com/dgrijalva/jwt-go"
 	"github.com/gogf/gf/frame/g"
+	"github.com/golang-jwt/jwt"
 	"time"
 )
 
